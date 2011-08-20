@@ -4,3 +4,5 @@ parts
 .installed.cfg
 develop-eggs
 eggs
+/.pydevproject
+/.project
