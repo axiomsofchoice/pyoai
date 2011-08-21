@@ -1,5 +1,4 @@
 import os
-from datetime import datetime
 from unittest import TestCase, TestSuite, makeSuite
 
 from fakeclient import FakeClient
