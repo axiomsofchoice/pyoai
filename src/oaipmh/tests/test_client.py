@@ -2,7 +2,7 @@ from unittest import TestCase, TestSuite, main, makeSuite
 from fakeclient import FakeClient, GranularityFakeClient, TestError
 import os
 from datetime import datetime
-from oaipmh import common, metadata, validation
+from oaipmh import metadata, validation
 
 directory = os.path.dirname(__file__)
 fake1 = os.path.join(directory, 'fake1')
